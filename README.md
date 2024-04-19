@@ -9,7 +9,7 @@ Dependencies
 License
 
 Introduction:
-Predicting insurance premiums accurately is crucial for insurance companies to assess risk and set appropriate pricing for policies. This project focuses on developing machine learning models to predict insurance premiums based on various factors such as age, gender, medical history, and more.
+Predicting insurance premiums accurately is crucial for insurance companies to assess risk and set appropriate pricing for policies. This project focuses on developing machine learning models to predict insurance premiums based on various factors such as age, gender, medical history(bmi), expenses and more.
 
 Algorithms Used:
 The following machine learning algorithms are utilized in this project:
