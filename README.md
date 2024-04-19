@@ -1,7 +1,7 @@
 # Predicting the annual medical expenses (in dollars) of a person to set insurance premium, greater than the predicted medical expenses for earning profit 
 
 # Table of Contents:
-Introduction<br>Algorithms Used  Repository Structure  Dependencies
+Introduction<br>Algorithms Used<br>Repository Structure<br>Dependencies
 
 # Introduction
 Used 5 regression algorithms, linear regression, polynomial regression, ridge regression, xgboost regression and neural network regression to find the best ML model to predict medical expenses of a person on the basis of features like age, sex, bmi, region, children, smoker. Data was taken from the Kaggle website. The data set contains various attributes of 1338 individuals including the total amount of medical expense incurred for one year. The attributes for this data set is shown below: 
@@ -27,12 +27,7 @@ THE MODELS, ARRANGED ACCORDING TO BEST R2 SCORE AND LEAST ROOT MEAN SQUARE ERROR
 # 5 .LINEAR REGRESSION (R2_SCORE: 0.7867465671074685, RMSE:5478.857939886519)
 
 # Repository Structure
-data/: Contains datasets used for training and testing the models.
-notebooks/: Google Colab notebook containing code for data preprocessing, model training, and evaluation.
-src/: Source code for implementing the machine learning algorithms.
-models/: Trained models saved in serialized format for future use.
-results/: Visualizations and evaluation metrics generated during model evaluation.
-README.md: Overview of the project and instructions for usage.
+data/: Contains datasets used for training and testing the models.<br>notebooks/: Google Colab notebook containing code for data preprocessing, model training, and evaluation.<br>src/: Source code for implementing the machine learning algorithms.<br>models/: Trained models saved in serialized format for future use.<br>results/: Visualizations and evaluation metrics generated during model evaluation.<br>README.md: Overview of the project and instructions for usage.
 
 # Dependencies
 Python 3.x
