@@ -1,4 +1,4 @@
-# prediction-of-Insurance-premium-by-Sayam
+# Prediction-of-Insurance-premium-by-Sayam
 This repository contains code for predicting insurance premiums using various machine learning algorithms including Ridge Regression, Linear Regression, XGBoost, and Neural Network Regression. By leveraging these algorithms, accurate estimations of insurance costs can be provided based on individual attributes.
 
 Table of Contents:
