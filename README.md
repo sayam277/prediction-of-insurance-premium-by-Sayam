@@ -1,10 +1,7 @@
 # Predicting the annual medical expenses (in dollars) of a person to set insurance premium, greater than the predicted medical expenses for earning profit 
 
 # Table of Contents:
-Introduction
-Algorithms Used
-Repository Structure
-Dependencies
+Introduction  Algorithms Used  Repository Structure  Dependencies
 
 # Introduction
 Used 5 regression algorithms, linear regression, polynomial regression, ridge regression, xgboost regression and neural network regression to find the best ML model to predict medical expenses of a person on the basis of features like age, sex, bmi, region, children, smoker. Data was taken from the Kaggle website. The data set contains various attributes of 1338 individuals including the total amount of medical expense incurred for one year. The attributes for this data set is shown below: 
